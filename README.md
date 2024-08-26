@@ -109,7 +109,7 @@
 
 ### GitHub Stats 
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nocturnalDev11&theme=tokyonight" width="100%" height="auto" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phantomDev11&theme=cobalt" width="100%" height="auto" />
 </div>
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phantomDev11&theme=cobalt" width="49%" height="auto" style="display: inline;" />
